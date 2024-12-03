@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="/home/rviglian/Projects/tei_openiti/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Open Islamicate Texts Initiative (OpenITI)</publisher>
+        <availability>
+          <p>Creative Commons Attribution Non Commercial Share Alike 4.0 International</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-12-02T11:32:35.296462+00:00
+CREATED BY: eScriptorium vUBMA-2023-08-21
+IMAGE FILENAME: 00000039.tif.original.jpeg
+IMAGE WIDTH: 2040
+IMAGE HEIGHT: 3052
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>994
+          <lb/>Légumes.
+          <lb/>Feuilles de choux blancs
+          <lb/>farcies au riz.
+          <lb/>Jets de choux blancs.
+          <lb/>- de choux blancs aux
+          <lb/>oeufs.
+          <lb/>Poupiettes de choux blancs
+          <lb/>à la bavaroise.⁴)
+          <lb/>- de choux blancs à la
+          <lb/>milanaise.
+          <lb/>Tête de chou blanc au cochon
+          <lb/>de lait.
+          <lb/>Chou de Bruxelles, chou
+          <lb/>de Brabant.⁷)
+          <lb/>Choux de Bruxelles à l&amp;#x27;ang-
+          <lb/>[laise.
+          <lb/>- de Bruxelles au beurre.
+          <lb/>- de Bruxelles à la crème.
+          <lb/>- de Bruxelles à l&amp;#x27;espagnole.
+          <lb/>- de Bruxelles au gratin.
+          <lb/>- de Bruxelles à l&amp;#x27;huile.
+          <lb/>- de Bruxelles à la lucer-
+          <lb/>noise.
+          <lb/>- de Bruxelles à la maître
+          <lb/>d&amp;#x27;hôtel.
+          <lb/>- de Bruxelles aux mar-
+          <lb/>[rons.
+          <lb/>- de Bruxelles à la mode.
+          <lb/>- de Bruxelles à la noisette.
+          <lb/>- de Bruxelles au par-
+          <lb/>mesan.
+          <lb/>- de Bruxelles à la poulette.
+          <lb/>- de Bruxelles sautés au
+          <lb/>[beurre.
+          <lb/>Chou bullé ¹³).
+          <lb/>Chou-cabus ¹⁴).
+          <lb/>Chou caraïbe.
+          <lb/>Chou cavalier ¹⁶).
+          <lb/>Chou de Chine¹⁷).
+          <lb/>Chou de cocotier. ¹⁸)
+          <lb/>Gemüſe.
+          <lb/>Weißkraut-Blätter mit Reis
+          <lb/>und Paradiesapfelmus
+          <lb/>gefüllt.¹)
+          <lb/>- ⸗Sproſſe.²)
+          <lb/>- ⸗Sproſſe mit Eiern.³)
+          <lb/>Bayriſche Weißkraut⸗
+          <lb/>Wickel(n) ⁵).
+          <lb/>Gefüllte Weißkraut⸗Röllchen
+          <lb/>auf Mailänder⁶) Art.
+          <lb/>Weißkrautkopf mit Span⸗
+          <lb/>ferkel⸗Braten gefüllt.
+          <lb/>Roſenkohl, Brüſſeler Sproſ⸗
+          <lb/>ſenkohl, Brabanter Kohl.
+          <lb/>- mit friſcher Butter.⁸)
+          <lb/>- mit Butter⸗Soſe.
+          <lb/>- mit Rahmſoſe.
+          <lb/>- mit ſpaniſcher Soſe.
+          <lb/>- überkruſtet.
+          <lb/>- mit Eſſig und Öl.⁹)
+          <lb/>- auf Luzerner Art.
+          <lb/>- mit Haushofmeiſter⸗
+          <lb/>Butter.
+          <lb/>- mit Kaſtanien. ¹⁰)
+          <lb/>- nach der Mode¹¹).
+          <lb/>- mit brauner Butter.¹²)
+          <lb/>- mit Parmeſan⸗Käſe.
+          <lb/>- weiß eingemacht.
+          <lb/>- in Butter geſchwungen.
+          <lb/>Wirſing=, Herzkohl.
+          <lb/>Kopfkohl.
+          <lb/>Karaibenkohl ¹⁵).
+          <lb/>Winter⸗, Baumkohl.
+          <lb/>Tropen⸗Spinat.
+          <lb/>Palmkohl ¹⁹).
+          <lb/>Vegetables.
+          <lb/>Leaves of white cabbage
+          <lb/>rolled up with rice and
+          <lb/>purée of tomatoes.
+          <lb/>White cabbage-sprouts.
+          <lb/>- cabbage-sprouts with
+          <lb/>eggs.
+          <lb/>Bavarian white cabbage-
+          <lb/>olives.
+          <lb/>White cabbage-olives with
+          <lb/>sausage meat, rice,
+          <lb/>shallots and parsley.
+          <lb/>Cabbage-head stuffed with
+          <lb/>roast sucking-pig.
+          <lb/>Brussels sprouts, thou-
+          <lb/>sand-headed cabbage.
+          <lb/>- sprouts w. fresh butter.
+          <lb/>- sprouts w. butter sauce.
+          <lb/>- sprouts w. cream sauce.
+          <lb/>- sprouts with Spanish
+          <lb/>sauce.
+          <lb/>- sprouts browned.
+          <lb/>- sprouts w. vinegar and oil.
+          <lb/>- sprouts, Lucerne style.
+          <lb/>- sprouts with maître
+          <lb/>d&amp;#x27;hôtel butter.
+          <lb/>- sprouts with chestnuts.
+          <lb/>- sprouts à la mode.
+          <lb/>- sprouts w. brown butter.
+          <lb/>- sprouts with Parmesan
+          <lb/>cheese.
+          <lb/>- sprouts fricasseed.
+          <lb/>- sprouts fried in butter.
+          <lb/>Sort of Savoy cabbage.
+          <lb/>Cabbage.
+          <lb/>Wake robin, colocasia.
+          <lb/>Tree cabbage, kale.
+          <lb/>Breda.
+          <lb/>Cabbage²⁰).
+          <lb/>¹) Rumänisches Gericht: Sarmaluta cu oreza.
+          <lb/>Reis mit Paradiesapfelmus in große Kohlblätter
+          <lb/>gewickelt und gedünstet.
+          <lb/>²) Die Schößlinge, welche am Stengel her-
+          <lb/>auswachsen.
+          <lb/>³) Die jungen Schößlinge gekocht; ein kleiner
+          <lb/>Eierkuchen (omelet) wird flach auf eine in zer-
+          <lb/>lassene Butter getauchte Röstbrotschnitte (dipped
+          <lb/>toast) gelegt, auf den Eierkuchen die Weißkraut-
+          <lb/>Schößlinge.
+          <lb/>⁴) Feuilles de chou blanc farcies, roulées à
+          <lb/>la bavaroise ist dasselbe.
+          <lb/>⁵) Man bereitet ein Füllsel aus den kleinen,
+          <lb/>gehackten Krautblättern, Zwiebel, geweichter
+          <lb/>Semmel, Eiern und gehacktem Schweinefleisch,
+          <lb/>bestreicht damit die großen Blätter, rollt sie zu-
+          <lb/>sammen, dämpft sie in Butter weich und gibt sie
+          <lb/>mit Wurst zu Tisch.
+          <lb/>⁶) Weißkraut-Blätter abgebrüht (blanchiert);
+          <lb/>Bratwurstfleisch, halb weich gekochter Reis, Scha-
+          <lb/>lotten und Petersilie untereinander vermischt, in
+          <lb/>die Blätter gefüllt, aufgerollt, langsam in der
+          <lb/>Pfanne gar gemacht.
+          <lb/>⁷) Auch chou à jets, chou à rejets, cimette,
+          <lb/>cymette; vergl. Fußbem. zu chou.
+          <lb/>⁸) Der Rosenkohl in Salzwasser weich ge-
+          <lb/>kocht, mit Pfeffer, Salz, Muskatnuß und gehackter
+          <lb/>Petersilie gewürzt; Stück frische Butter obenauf.
+          <lb/>⁹) Man fügt zum Essig einen Theelöffelvoll
+          <lb/>klaren Zucker.
+          <lb/>¹⁰) Der abgewällte (blanchierte) Rosenkohl
+          <lb/>wird zusammen mit den gekochten Kastanien in
+          <lb/>Butter gedämpft.
+          <lb/>¹¹) Der Rosenkohl wird gekocht, in Butter heiß
+          <lb/>gemacht, mit etwas Mehl bestreut und dieses mit
+          <lb/>ein wenig Fleischbrühe aufgelöst.
+          <lb/>¹²) Der Rosenkohl in Salzwasser weich gekocht,
+          <lb/>in brauner Butter geschwenkt, mit Pfeffer, Salz
+          <lb/>Muskatnuß und gewiegter Petersilie gewürzt.
+          <lb/>¹³) Wenig gebräuchlich; öfter angewendet:
+          <lb/>chou de Milan (s. d. S. 998).
+          <lb/>¹⁴) Auch chou pommé, deutsch Kappes, Ka-
+          <lb/>bis; vergl. Fußbem zu chou, S. 991.
+          <lb/>¹⁵) Colocasia esculenta, arum esculentum, auch eß-
+          <lb/>bare Zehrwurzel, Aron, engl. auch arum,
+          <lb/>krautartiges Gewächs mit Knollen, aus denen in
+          <lb/>verschiedenen Gegenden das Stärkemehl als wich-
+          <lb/>tiges Nahrungs-Mittel gewonnen wird. Die jungen
+          <lb/>Blätter der Pflanze bilden gekocht als Karaiben-
+          <lb/>kohl eine Lieblings-Speise auf den Südsee-Inseln
+          <lb/>und in anderen Tropen-Gegenden. Vergl. hierzu
+          <lb/>colocasie.
+          <lb/>¹⁶) Auch chou en arbre; vergl. Fußbemerkung
+          <lb/>zu chou, S. 991.
+          <lb/>¹⁷) Vergl. brède und chou de l&amp;#x27;Inde.
+          <lb/>¹⁸) Auch chou-palmier, chou-palmiste.
+          <lb/>¹⁹) Vergl. Fußbemerkung zu chou.
+          <lb/>²⁰) Cabbage tree, cabbage palm die Kohlpalme
+          <lb/>(der Baum, welcher die eßbaren Endknospen, ter-
+          <lb/>minal budds, trägt).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
