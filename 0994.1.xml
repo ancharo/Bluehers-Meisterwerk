@@ -77,7 +77,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108110706936#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs"
+			"rdf:value": "TEI/text/body/rs"
 		}
 	},
 	"oa:hasBody": {
@@ -156,7 +156,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108110739970#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[5]"
+			"rdf:value": "TEI/text/body/rs[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -235,7 +235,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108110756795#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[11]"
+			"rdf:value": "TEI/text/body/rs[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -314,7 +314,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108110915085#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[8]"
+			"rdf:value": "TEI/text/body/rs[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -393,7 +393,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108111007747#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[10]"
+			"rdf:value": "TEI/text/body/rs[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -472,7 +472,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108111949979#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[3]"
+			"rdf:value": "TEI/text/body/rs[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -551,7 +551,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108112219457#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[6]"
+			"rdf:value": "TEI/text/body/rs[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -630,7 +630,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108112523220#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[2]"
+			"rdf:value": "TEI/text/body/rs[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -709,7 +709,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108112549766#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[7]"
+			"rdf:value": "TEI/text/body/rs[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -788,7 +788,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108112751261#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[4]"
+			"rdf:value": "TEI/text/body/rs[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -867,12 +867,103 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108114140214#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/rs[9]"
+			"rdf:value": "TEI/text/body/rs[9]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "owl:Thing",
 		"@id": "http://www.wikidata.org/entity/Q595003",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108114214747",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-08T10:42:14.747Z",
+	"dcterms:modified": "2025-01-08T10:42:14.747Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ancharo",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Chantal Ross"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108114214747#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108114214747#Selector",
+			"@type": "oa:RangeSelector",
+			"oa:hasStartSelector": {
+				"@type": "oa:XPathSelector",
+				"rdf:value": "TEI/text/body/rs[9]"
+			},
+			"oa:hasEndSelector": {
+				"@type": "oa:XPathSelector",
+				"rdf:value": "TEI/text/body"
+			},
+			"oa:refinedBy": {
+				"@type": "oa:TextPositionSelector",
+				"oa:start": 8,
+				"oa:end": 1299
+			}
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q618345",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -901,8 +992,8 @@ IMAGE HEIGHT: 3052
   </teiHeader>
   <text>
     <body>
-      <div>
-        <p>
+      
+        
           <lb/>994
           <lb/><rs key="vegetable" ref="http://www.wikidata.org/entity/Q11004">Légumes</rs>.
           <lb/><rs key="leaf" ref="http://www.wikidata.org/entity/Q33971">Feuilles</rs> de <rs key="white cabbage" ref="http://www.wikidata.org/entity/Q62728616">choux blancs</rs>
@@ -1078,8 +1169,8 @@ IMAGE HEIGHT: 3052
           <lb/>²⁰) Cabbage tree, cabbage palm die Kohlpalme
           <lb/>(der Baum, welcher die eßbaren Endknospen, ter-
           <lb/>minal budds, trägt).
-        </p>
-      </div>
+        
+      
     </body>
   </text>
 </TEI>
