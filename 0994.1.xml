@@ -1,7 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="/home/rviglian/Projects/tei_openiti/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,7 +15,86 @@
         <bibl/>
       </sourceDesc>
     </fileDesc>
-    <profileDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108121739050",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-08T11:17:39.050Z",
+	"dcterms:modified": "2025-01-08T11:17:39.050Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ancharo",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Chantal Ross"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108121739050#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ancharo/Bluehers-Meisterwerk/main/0994.1.xml?rs_annotation_20250108121739050#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q11004",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
       <calendarDesc>
         <calendar xml:id="ah">
           <p>Anno Hegirae</p>
@@ -38,7 +114,7 @@ IMAGE HEIGHT: 3052
       <div>
         <p>
           <lb/>994
-          <lb/>Légumes.
+          <lb/><rs key="vegetable" ref="http://www.wikidata.org/entity/Q11004">Légumes</rs>.
           <lb/>Feuilles de choux blancs
           <lb/>farcies au riz.
           <lb/>Jets de choux blancs.
@@ -52,17 +128,17 @@ IMAGE HEIGHT: 3052
           <lb/>de lait.
           <lb/>Chou de Bruxelles, chou
           <lb/>de Brabant.⁷)
-          <lb/>Choux de Bruxelles à l&amp;#x27;ang-
+          <lb/>Choux de Bruxelles à l'ang-
           <lb/>[laise.
           <lb/>- de Bruxelles au beurre.
           <lb/>- de Bruxelles à la crème.
-          <lb/>- de Bruxelles à l&amp;#x27;espagnole.
+          <lb/>- de Bruxelles à l'espagnole.
           <lb/>- de Bruxelles au gratin.
-          <lb/>- de Bruxelles à l&amp;#x27;huile.
+          <lb/>- de Bruxelles à l'huile.
           <lb/>- de Bruxelles à la lucer-
           <lb/>noise.
           <lb/>- de Bruxelles à la maître
-          <lb/>d&amp;#x27;hôtel.
+          <lb/>d'hôtel.
           <lb/>- de Bruxelles aux mar-
           <lb/>[rons.
           <lb/>- de Bruxelles à la mode.
@@ -138,7 +214,7 @@ IMAGE HEIGHT: 3052
           <lb/>- sprouts w. vinegar and oil.
           <lb/>- sprouts, Lucerne style.
           <lb/>- sprouts with maître
-          <lb/>d&amp;#x27;hôtel butter.
+          <lb/>d'hôtel butter.
           <lb/>- sprouts with chestnuts.
           <lb/>- sprouts à la mode.
           <lb/>- sprouts w. brown butter.
@@ -206,7 +282,7 @@ IMAGE HEIGHT: 3052
           <lb/>colocasie.
           <lb/>¹⁶) Auch chou en arbre; vergl. Fußbemerkung
           <lb/>zu chou, S. 991.
-          <lb/>¹⁷) Vergl. brède und chou de l&amp;#x27;Inde.
+          <lb/>¹⁷) Vergl. brède und chou de l'Inde.
           <lb/>¹⁸) Auch chou-palmier, chou-palmiste.
           <lb/>¹⁹) Vergl. Fußbemerkung zu chou.
           <lb/>²⁰) Cabbage tree, cabbage palm die Kohlpalme
